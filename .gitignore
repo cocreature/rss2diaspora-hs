@@ -1,0 +1,9 @@
+/.cabal-sandbox/
+*.hi
+*.o
+*~
+/cabal.sandbox.config
+/dist/
+/freiesmagazin_config
+/holarse_config
+/xkcd_config

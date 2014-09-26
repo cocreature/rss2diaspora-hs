@@ -1,0 +1,9 @@
+[RSS]
+url = url_of_rss_feed
+abspath = prefix_prepended_to_relative_links
+[Diaspora]
+url = podurl
+username = username
+password = password
+aspect = public
+tags = #collection #of #tags
